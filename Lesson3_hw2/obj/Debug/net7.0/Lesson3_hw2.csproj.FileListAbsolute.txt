@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\Vscode3\Lesson3_hw2\bin\Debug\net7.0\Lesson3_hw2.exe
+C:\Users\admin\Desktop\Vscode3\Lesson3_hw2\bin\Debug\net7.0\Lesson3_hw2.deps.json
+C:\Users\admin\Desktop\Vscode3\Lesson3_hw2\bin\Debug\net7.0\Lesson3_hw2.runtimeconfig.json
+C:\Users\admin\Desktop\Vscode3\Lesson3_hw2\bin\Debug\net7.0\Lesson3_hw2.dll
+C:\Users\admin\Desktop\Vscode3\Lesson3_hw2\bin\Debug\net7.0\Lesson3_hw2.pdb
+C:\Users\admin\Desktop\Vscode3\Lesson3_hw2\obj\Debug\net7.0\Lesson3_hw2.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Vscode3\Lesson3_hw2\obj\Debug\net7.0\Lesson3_hw2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Vscode3\Lesson3_hw2\obj\Debug\net7.0\Lesson3_hw2.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Vscode3\Lesson3_hw2\obj\Debug\net7.0\Lesson3_hw2.AssemblyInfo.cs
+C:\Users\admin\Desktop\Vscode3\Lesson3_hw2\obj\Debug\net7.0\Lesson3_hw2.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Vscode3\Lesson3_hw2\obj\Debug\net7.0\Lesson3_hw2.dll
+C:\Users\admin\Desktop\Vscode3\Lesson3_hw2\obj\Debug\net7.0\refint\Lesson3_hw2.dll
+C:\Users\admin\Desktop\Vscode3\Lesson3_hw2\obj\Debug\net7.0\Lesson3_hw2.pdb
+C:\Users\admin\Desktop\Vscode3\Lesson3_hw2\obj\Debug\net7.0\Lesson3_hw2.genruntimeconfig.cache
+C:\Users\admin\Desktop\Vscode3\Lesson3_hw2\obj\Debug\net7.0\ref\Lesson3_hw2.dll
