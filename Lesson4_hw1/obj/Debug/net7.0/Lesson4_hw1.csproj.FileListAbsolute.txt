@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\Vscode3\Lesson4_hw1\bin\Debug\net7.0\Lesson4_hw1.exe
+C:\Users\admin\Desktop\Vscode3\Lesson4_hw1\bin\Debug\net7.0\Lesson4_hw1.deps.json
+C:\Users\admin\Desktop\Vscode3\Lesson4_hw1\bin\Debug\net7.0\Lesson4_hw1.runtimeconfig.json
+C:\Users\admin\Desktop\Vscode3\Lesson4_hw1\bin\Debug\net7.0\Lesson4_hw1.dll
+C:\Users\admin\Desktop\Vscode3\Lesson4_hw1\bin\Debug\net7.0\Lesson4_hw1.pdb
+C:\Users\admin\Desktop\Vscode3\Lesson4_hw1\obj\Debug\net7.0\Lesson4_hw1.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Vscode3\Lesson4_hw1\obj\Debug\net7.0\Lesson4_hw1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Vscode3\Lesson4_hw1\obj\Debug\net7.0\Lesson4_hw1.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Vscode3\Lesson4_hw1\obj\Debug\net7.0\Lesson4_hw1.AssemblyInfo.cs
+C:\Users\admin\Desktop\Vscode3\Lesson4_hw1\obj\Debug\net7.0\Lesson4_hw1.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Vscode3\Lesson4_hw1\obj\Debug\net7.0\Lesson4_hw1.dll
+C:\Users\admin\Desktop\Vscode3\Lesson4_hw1\obj\Debug\net7.0\refint\Lesson4_hw1.dll
+C:\Users\admin\Desktop\Vscode3\Lesson4_hw1\obj\Debug\net7.0\Lesson4_hw1.pdb
+C:\Users\admin\Desktop\Vscode3\Lesson4_hw1\obj\Debug\net7.0\Lesson4_hw1.genruntimeconfig.cache
+C:\Users\admin\Desktop\Vscode3\Lesson4_hw1\obj\Debug\net7.0\ref\Lesson4_hw1.dll
