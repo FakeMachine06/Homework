@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\Vscode3\Lesson9_ex64\bin\Debug\net7.0\Lesson9_ex64.exe
+C:\Users\admin\Desktop\Vscode3\Lesson9_ex64\bin\Debug\net7.0\Lesson9_ex64.deps.json
+C:\Users\admin\Desktop\Vscode3\Lesson9_ex64\bin\Debug\net7.0\Lesson9_ex64.runtimeconfig.json
+C:\Users\admin\Desktop\Vscode3\Lesson9_ex64\bin\Debug\net7.0\Lesson9_ex64.dll
+C:\Users\admin\Desktop\Vscode3\Lesson9_ex64\bin\Debug\net7.0\Lesson9_ex64.pdb
+C:\Users\admin\Desktop\Vscode3\Lesson9_ex64\obj\Debug\net7.0\Lesson9_ex64.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Vscode3\Lesson9_ex64\obj\Debug\net7.0\Lesson9_ex64.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Vscode3\Lesson9_ex64\obj\Debug\net7.0\Lesson9_ex64.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Vscode3\Lesson9_ex64\obj\Debug\net7.0\Lesson9_ex64.AssemblyInfo.cs
+C:\Users\admin\Desktop\Vscode3\Lesson9_ex64\obj\Debug\net7.0\Lesson9_ex64.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Vscode3\Lesson9_ex64\obj\Debug\net7.0\Lesson9_ex64.dll
+C:\Users\admin\Desktop\Vscode3\Lesson9_ex64\obj\Debug\net7.0\refint\Lesson9_ex64.dll
+C:\Users\admin\Desktop\Vscode3\Lesson9_ex64\obj\Debug\net7.0\Lesson9_ex64.pdb
+C:\Users\admin\Desktop\Vscode3\Lesson9_ex64\obj\Debug\net7.0\Lesson9_ex64.genruntimeconfig.cache
+C:\Users\admin\Desktop\Vscode3\Lesson9_ex64\obj\Debug\net7.0\ref\Lesson9_ex64.dll
